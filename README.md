@@ -14,7 +14,7 @@ Ecommerce Website: Implement a multi-page site with navigation.
 > - Include at least:
 > - A responsive design.
 > - JavaScript interactivity.
-> - A deployment link.
+github link > - https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-BrianMwendwa180.git
 
 ## Tasks
 
@@ -22,4 +22,11 @@ Create a well-structured HTML5 document.
 Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
+## How to run
+
+npm i >- To install all dependences
+npm run dev >- Launch and build app
+
+## deployment link 
+-> https://brianblo.netlify.app/
 Good luck and happy coding! 🚀💻
